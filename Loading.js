@@ -6,7 +6,7 @@ export default function Loading(){
         <Text style={styles.text}>Getting the fucking weather</Text>
     </View>
 }
-
+ 
 const styles=StyleSheet.create({
     container:{
         flex:1,
